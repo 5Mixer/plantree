@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="HAXE_MODULE" version="4">
+  <component name="HaxeModuleSettingsStorage">
+    <option name="arguments" value="" />
+    <option name="buildConfig" value="1" />
+    <option name="excludeFromCompilation" value="true" />
+    <option name="flexSdkName" value="flex_sdk_4.6" />
+    <option name="haxeTarget" value="JavaScript" />
+    <option name="hxmlPath" value="$MODULE_DIR$/../New Project-debug-html5.hxml" />
+    <option name="mainClass" value="Main" />
+    <option name="outputFileName" value="kha.swf" />
+    <option name="outputFolder" value="$MODULE_DIR$/../debug-html5" />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../debug-html5" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://c:\Users\Owner\Desktop\Kode\resources\app\extensions\kha\Kha\Sources" isTestSource="false" />
+      <sourceFolder url="file://c:\Users\Owner\Desktop\Kode\resources\app\extensions\kha\Kha\Backends\HTML5" isTestSource="false" />
+      <sourceFolder url="file://c:\Users\Owner\Desktop\plantree\Sources" isTestSource="false" />
+      <sourceFolder url="file://C:\Users\Owner\Desktop\Dungeon Game\Kha\Tools\haxe\lib\mphx\git\Sources" isTestSource="false" />
+
+    </content>
+    <content url="file://C:\Users\Owner\Desktop\Dungeon Game\Kha\Tools\haxe\lib\mphx">
+      <sourceFolder url="file://C:\Users\Owner\Desktop\Dungeon Game\Kha\Tools\haxe\lib\mphx\git" isTestSource="false" />
+    </content>
+    
+    <orderEntry type="jdk" jdkName="Haxe 3.2.0" jdkType="Haxe toolkit" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

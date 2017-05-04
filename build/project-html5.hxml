@@ -1,0 +1,20 @@
+-cp c:\Users\Owner\Desktop\Kode\resources\app\extensions\kha\Kha\Sources
+-cp c:\Users\Owner\Desktop\Kode\resources\app\extensions\kha\Kha\Backends\HTML5
+-cp c:\Users\Owner\Desktop\plantree\Sources
+-cp C:\Users\Owner\Desktop\Dungeon Game\Kha\Tools\haxe\lib\mphx\git\Sources
+-cp C:\Users\Owner\Desktop\Dungeon Game\Kha\Tools\haxe\lib\mphx\git
+-D mphx
+-D sys_g1
+-D sys_g2
+-D sys_g3
+-D sys_g4
+-D sys_a1
+-D sys_a2
+-D canvas_id=khanvas
+-D script_name=kha
+-D webgl
+-D sys_html5
+-D kha
+-D kha_version=1611
+-js html5\kha.js
+-main Main
